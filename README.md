@@ -4,3 +4,8 @@
 
 # Tutorial 2-1
 ![fd54805e52e492723ed1dbcdebdaa725_z9kKWhB9GKtAAAAAElFTkSuQmCC](https://user-images.githubusercontent.com/47129648/212629516-59e6db89-c8fe-428e-a7b1-1c4d24b141db.png)
+
+# Tutorial 2-2
+![image](https://user-images.githubusercontent.com/47129648/212834335-e9a5458f-9333-4cb1-818d-75312a5a43ee.png)
+
+
