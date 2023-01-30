@@ -8,4 +8,6 @@
 # Tutorial 2-2 alpha blend & alpha test
 ![image](https://user-images.githubusercontent.com/47129648/212834335-e9a5458f-9333-4cb1-818d-75312a5a43ee.png)
 
+# Tutorial 3-1 multiple directional lights
+![image](https://user-images.githubusercontent.com/47129648/215483669-566ef316-af4b-46ce-ac08-2db51666ac89.png)
 
