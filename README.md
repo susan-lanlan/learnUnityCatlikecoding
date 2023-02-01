@@ -11,3 +11,7 @@
 # Tutorial 3-1 multiple directional lights
 ![image](https://user-images.githubusercontent.com/47129648/215483669-566ef316-af4b-46ce-ac08-2db51666ac89.png)
 
+# Tutorial 3-2 BRDF
+![image](https://user-images.githubusercontent.com/47129648/215926796-99e95035-66b2-4279-af61-b19dbb98f078.png)
+
+
