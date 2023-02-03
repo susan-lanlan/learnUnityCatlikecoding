@@ -12,6 +12,10 @@
 ![image](https://user-images.githubusercontent.com/47129648/215483669-566ef316-af4b-46ce-ac08-2db51666ac89.png)
 
 # Tutorial 3-2 BRDF
-![image](https://user-images.githubusercontent.com/47129648/215926796-99e95035-66b2-4279-af61-b19dbb98f078.png)
+![image](https://user-images.githubusercontent.com/47129648/215936422-f619e217-1da3-4edd-aad4-bc8026bd81b3.png)
+![image](https://user-images.githubusercontent.com/47129648/215936294-46540fb1-893f-4428-8f0c-6871e7f24d3d.png)
+
+# Tutorial 4-1 Tiled Shadow Maps
+![image](https://user-images.githubusercontent.com/47129648/216500136-7f5deb73-4426-46ab-b6b9-99079a3135ea.png)
 
 
