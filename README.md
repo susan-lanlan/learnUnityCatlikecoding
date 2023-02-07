@@ -18,4 +18,6 @@
 # Tutorial 4-1 Tiled Shadow Maps
 ![image](https://user-images.githubusercontent.com/47129648/216500136-7f5deb73-4426-46ab-b6b9-99079a3135ea.png)
 
+# Tutorial 4-2 Cascaded Shadow Maps(bias & pancaking)
+![image](https://user-images.githubusercontent.com/47129648/217166535-b2c50ed8-9241-4075-ad8a-c1894f10ee0e.png)
 
